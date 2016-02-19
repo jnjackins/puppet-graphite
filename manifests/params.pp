@@ -95,6 +95,7 @@ class graphite::params {
         'python-psycopg2',
         'python-zope-interface',
         'python-tzlocal',
+        'mod_ssl',
       ]
 
       # see https://github.com/graphite-project/carbon/issues/86
